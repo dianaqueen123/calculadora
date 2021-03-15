@@ -1,0 +1,6 @@
+body{ background-color: rgb(255, 248, 235);    }
+header{ background-color: rgb(209, 189, 164); height: 40px;  width: 400px;    }
+main{background-color: rgb(179, 230, 245);  height: 350px;  width: 400px;          }
+.fondo1{background-color: rgb(112, 210, 255);  width: 180px;                               }
+.imagen1{ padding: 0px;  margin: 0px; width: 700px;  height: 200px;            }
+.fondo2{background-color: rgb(179, 230, 245);  width: 180px;                         }
